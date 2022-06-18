@@ -12,7 +12,7 @@
 - **Salesforce**
 
 
-Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [WhatsApp](https://wa.me/5585996171367) ou do meu [LinkedIn](https://www.linkedin.com/in/talitasaldanha/);
+Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [WhatsApp](https://wa.me/5585996171367) ou do [LinkedIn](https://www.linkedin.com/in/talitasaldanha/);
 
 ##
 

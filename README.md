@@ -55,7 +55,7 @@ Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [W
   </a> 
   
   <a href="https://twitter.com/TalitaSaldanha9" target="_blank">
-   <img src="https://img.shields.io/badge/Twitter-25D366?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a> 
  
  

@@ -54,7 +54,7 @@ Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [W
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
   
-  <a href=" https://twitter.com/TalitaSaldanha9" target="_blank">
+  <a href="https://twitter.com/TalitaSaldanha9" target="_blank">
    <img src="https://img.shields.io/badge/Twitter-25D366?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a> 
  

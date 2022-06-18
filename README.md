@@ -9,7 +9,7 @@
 - - **Mulesoft** 
 
 
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- Se alguma fez sentido pra você, fala comigo por algumas das minhas redes sociais ou whatsapp.
 
 ##
 

@@ -1,11 +1,14 @@
-# Fala Dev!! Tudo beleza ?
+# Hey !! Tudo bem ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
-- 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
+- 😍 - I'm [Talita Saldanha](https://www.linkedin.com/in/talitasaldanha/);
+- 💙 - Recruiter [OSF Digital](https://www.linkedin.com/company/osf-digital/mycompany/);
+- 🚀 - Constantemente tenho vagas de:
+- - **Frontend**: ReactJs; Angular;
+- - **Backend**: Java; AEM; Phyton; PHP;
+- - **Mobile**: React Native;
+- - **Mulesoft** 
+- - **Salesforce**
+
 - - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
 
 ##

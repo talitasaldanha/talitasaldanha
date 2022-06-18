@@ -1,16 +1,16 @@
 # Hey !! Tudo bem ?
 
-- 😍 I'm [Talita Saldanha](https://www.linkedin.com/in/talitasaldanha/);
-- 💙 Recruiter [OSF Digital](https://www.linkedin.com/company/osf-digital/mycompany/);
-- 🚀 Constantemente tenho vagas de:
-- - **Frontend**: ReactJs; Angular;
-- - **Backend**: Java; AEM; Phyton; PHP;
-- - **Mobile**: React Native;
-- - **Mulesoft** 
-- - **Salesforce**
+😍 I'm [Talita Saldanha](https://www.linkedin.com/in/talitasaldanha/);
+💙 Recruiter [OSF Digital](https://www.linkedin.com/company/osf-digital/mycompany/);
+🚀 Constantemente tenho vagas de:
+- **Frontend**: ReactJs; Angular;
+- **Backend**: Java; AEM; Phyton; PHP;
+- **Mobile**: React Native;
+- **Mulesoft** 
+- **Salesforce**
 
 
-- Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [meu whatsapp](https://wa.me/5585996171367) ou do meu [LinkedIn](https://www.linkedin.com/in/talitasaldanha/);
+Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [WhatsApp](https://wa.me/5585996171367) ou do meu [LinkedIn](https://www.linkedin.com/in/talitasaldanha/);
 
 ##
 

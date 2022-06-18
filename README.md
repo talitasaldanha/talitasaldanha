@@ -1,13 +1,13 @@
 # Hey !! Tudo bem ?
 
-😍 - I'm [Talita Saldanha](https://www.linkedin.com/in/talitasaldanha/);
-💙 - Recruiter [OSF Digital](https://www.linkedin.com/company/osf-digital/mycompany/);
-🚀 - Constantemente tenho vagas de:
-- **Frontend**: ReactJs; Angular;
-- **Backend**: Java; AEM; Phyton; PHP;
-- **Mobile**: React Native;
-- **Mulesoft** 
-- **Salesforce**
+- 😍 - I'm [Talita Saldanha](https://www.linkedin.com/in/talitasaldanha/);
+- 💙 - Recruiter [OSF Digital](https://www.linkedin.com/company/osf-digital/mycompany/);
+- 🚀 - Constantemente tenho vagas de:
+- - **Frontend**: ReactJs; Angular;
+- - **Backend**: Java; AEM; Phyton; PHP;
+- - **Mobile**: React Native;
+- - **Mulesoft** 
+
 
 - - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
 
@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/talitasaldanha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopelaez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopelaez&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitasaldanha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitasaldanha&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>

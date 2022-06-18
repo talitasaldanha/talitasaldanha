@@ -9,7 +9,7 @@
 - - **Mulesoft** 
 
 
-- Se alguma fez sentido pra você, fala comigo por algumas das minhas redes sociais ou whatsapp.
+- Ficou interessado em saber mais sobre as vagas acima? Fala comigo através do [meu whatsapp](https://wa.me/5585996171367) ou do meu [LinkedIn](https://www.linkedin.com/in/talitasaldanha/);
 
 ##
 
